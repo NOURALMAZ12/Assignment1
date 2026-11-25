@@ -160,7 +160,6 @@
     Console.WriteLine(confirmedName);
 }
 
-// ===================== Book class =====================
 class Book
 {
     public string Title { get; set; } = "";
